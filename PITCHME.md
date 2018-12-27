@@ -7,7 +7,10 @@
 ---
 # 팀원소개
 
----
+---?color=lightgreen
+@title[이용재] 
+@transition[fade-in]
+
 ## 이용재
 ![yongjae](img/yong_profile.png)
 
@@ -46,8 +49,6 @@
 
 @snapend
 ---
-
-
 
 ---
 
