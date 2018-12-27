@@ -1,1 +1,1 @@
-SSAFYist Git Pitch Practice
+# SSAFYist Git Pitch Practice
