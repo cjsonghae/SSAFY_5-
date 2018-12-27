@@ -18,7 +18,7 @@
 
 @size[1.0em]@color[white](이름: 신승민<br/>별명: 없음<br/>성격: 말이 많음, 움직이는 것을 싫어함)
 <br/>
-![앵무새](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiq9LX1ub_fAhWEd94KHV4BBgQQjRx6BAgBEAU&url=http%3A%2F%2Fm.blog.naver.com%2Fjyi4501%2F220764395599&psig=AOvVaw15kEFyBO35gxUJPpUWBSPm&ust=1545980933584128)
+![앵무새](http://file2.nocutnews.co.kr/newsroom/image/2013/11/12/20131112074334254379.jpg)
 @snapend
 ---?color=lightblue
 @snap[center]
