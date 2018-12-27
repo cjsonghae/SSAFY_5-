@@ -5,7 +5,6 @@
 
 ---
 
----?color=lightblue
 이름: 정송해
 ---
 별명: 송해,아리송해,뽀송뽀송해...
@@ -17,7 +16,7 @@
 ---?color=lightblue
 @title[신승민] 
 @transition[fade-out]
-@size[1.0em](이름: 신승민)
+@color[white]@size[1.0em](이름: 신승민)
 
 @size[1.0em](별명: 없음)
 
