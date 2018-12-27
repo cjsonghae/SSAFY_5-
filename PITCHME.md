@@ -21,7 +21,7 @@
 
 @size[1.0em]@color[white](별명: 없음\n)
 
-@size[1.0em]@color[white](성격: 말이 많음, 움직이는 것을 싫어함\n)
+@size[1.0em]@color[white](성격: 말이 많음, 움직이는 것을 싫어함)
 @snapend
 ---
 
