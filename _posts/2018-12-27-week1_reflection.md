@@ -16,17 +16,17 @@ title: 1주차. Design Thinking 방법론
 |---|---|---|---|---|
 |관찰, 인터뷰, 체험으로 문제점을 발견|문제점에 대해 정의하고 분석하는 단계|아이디어를 자유롭게 발산하는 과정|아이디어를 구현하는 과정|피드백을 통해 아이디어를 개선 |
 
-#### 1. Empathize
+### 1. Empathize
 |공감지도|고객여정맵|페르소나|
 |---|---|---|
 |![empathize_map](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/empathize_map.PNG)|![customer_journey](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/customer_journey.PNG)|![persona](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/persona.PNG)|
 
-#### 2. Define
+### 2. Define
 - 관점서술문 작성
 
 ![view_description](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/view_description.PNG)
 
-#### 3. Ideate
+### 3. Ideate
 - How Might We
   1. How: (핵심질문) 어떻게 하면 우리가 ~을 할 수 있을까? (가능성 확장) 어떤 방법으로 우리가 ~을 할 수 있을까?
   2. Might: (장애요소 발견) 무엇이 문제 해결을 막고 있는가?
@@ -44,11 +44,11 @@ title: 1주차. Design Thinking 방법론
 |---|---|---|
 |![brainlighting](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/brainlighting.PNG)|![ideaboard](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/ideaboard.PNG)|![PMI](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/PMI.PNG)|
 
-#### 4. Prototype
+### 4. Prototype
 - 목업
   - justinmind, balsamiq, adobeXD
 - PPT, 전지, Role Play, 드라마, UCC, 광고 등
 
-#### 5. Test
+### 5. Test
 - World Cafe: 호스트와 서기가 세워져 다른 팀 게스트들을 맞이해 기술을 설명하고 피드백을 받는 방법
 - 피벗: 검증을 통해 수집된 통찰과 다른 기술 및 맥락적 기반을 바탕으로, 개발의 방향을 빠르게 전환해나가는 것
