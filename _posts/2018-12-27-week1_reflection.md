@@ -10,7 +10,7 @@ title: 1주차. Design Thinking 방법론
 - 화이자 제약의 금연 캠페인
 
 ### 디자인씽킹 Process
-![process diagram](designthinking_process_diagram.png)
+![process diagram](designthinking_process_diagram.PNG
 
 |Empathize|Define|Ideate|Prototype|Test|
 |---|---|---|---|---|
