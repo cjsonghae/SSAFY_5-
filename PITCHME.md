@@ -1,10 +1,10 @@
 ---
 # SSAFYist
-![ssafyists](https://github.com/cjsonghae/SSAFY_5-/blob/yong_/ssafyists.png)
+![ssafyists](ssafyists.png)
  
 ---
 # 자기소개
-![yongjae](https://github.com/cjsonghae/SSAFY_5-/blob/yong_/yong_profile.JPG)
+![yongjae](yong_profile.JPG)
 이름: 이용재
 별명: 요으재, 용구리
 성격: 낙천적
