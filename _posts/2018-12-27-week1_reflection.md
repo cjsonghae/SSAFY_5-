@@ -17,12 +17,9 @@ title: 1주차. Design Thinking 방법론
 |관찰, 인터뷰, 체험으로 문제점을 발견|문제점에 대해 정의하고 분석하는 단계|아이디어를 자유롭게 발산하는 과정|아이디어를 구현하는 과정|피드백을 통해 아이디어를 개선 |
 
 #### 1. Empathize
-- 공감지도
-![empathize_map](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/empathize_map.PNG)
-- 고객여정맵
-![customer_journey](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/customer_journey.PNG)
-- 페르소나 만들기
-![persona](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/persona.PNG)
+|공감지도|고객여정맵|페르소나|
+|---|---|---|
+|![empathize_map](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/empathize_map.PNG)|![customer_journey](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/customer_journey.PNG)|![persona](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/persona.PNG)|
 
 #### 2. Define
 - 관점서술문 작성
