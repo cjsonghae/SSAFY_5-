@@ -1,6 +1,6 @@
-# SSAFY startcamp week2 chatbot project ([original repo link](https://github.com/CoaLee/hotword))
-
-## 1. Design
+# SSAFY Start Camp 챗봇 퀘스트 ([original repo link](https://github.com/CoaLee/hotword))
+서울_5_이용재, https://github.com/CoaLee/hotword
+## 1. 스펙(Specification)
 - **용도**: 뉴스 분야(정치, IT, 연예..) 또는 특정 키워드(손흥민, 삼성, ...)를 검색했을 때 연관된 단어들 보여준다.
 - **기능**:
   1. 다이얼로그 플로우로 Query 분석
@@ -10,23 +10,25 @@
 - **팀원별 역할 분담**: 구조 만들기 (이용재) / 크롤링(지창규) / 연산 및 단어구름 생성(박준호)
 
 
-## 2. Results
+### 1-1. Results
 |**뉴스 카테고리 검색**|**키워드 검색**|
 |---|---|
 |다음 뉴스 카테고리: 다음 뉴스에서 미리 크롤링한 데이터 활용|그 외 검색어: 언론 사이트에 검색하여 크롤링|
 |![result_politics](https://github.com/CoaLee/hotword/blob/master/readme_data/result_politics.PNG)|![result_ssafy](https://github.com/CoaLee/hotword/blob/master/readme_data/result_ssafy.PNG)|
 
-## 3. Structure & Functions
-### slackbot & DialogFlow
+### 1-2. Structure & Functions
+#### slackbot & DialogFlow
 
-### server
+#### server
 
-### crawler
+#### crawler
 
-### processing
+#### processing
+
+## 2. 회고(Retrospective)
 
 
-## 4. Challenge, TODO
+## 3. 보완 계획(Feedback)
 ### 주요한 기능
 - 특정 인물을 물어보면 해당 인물의 SNS를 크롤링하여 사용한 단어 빈도로 단어구름 그리기
 - 특정 가수를 물어보면 가수의 가사를 크롤링하여 단어구름 그리기 
@@ -42,7 +44,7 @@
 - DialogFlow가 다양한 질의를 이해할 수 있도록 하기
 
 
-## 5. Component: 
+## 4. Component: 
 ### Framework, API
 - Python Flask (Server)
 - Slack API (Bot)
