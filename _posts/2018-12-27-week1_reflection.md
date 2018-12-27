@@ -40,6 +40,7 @@ title: 1주차. Design Thinking 방법론
   6. Eliminate: 선풍기에 날개가 없다면?
   7. Reverse, Rearrange: 김밥에서 김을 안에 넣으면?
 - 그 외: 브레인라이팅, 아이디어보드, PMI 피드백, 마인드맵
+
 |브레인라이팅|아이디어보드|PMI피드백|
 |---|---|---|
 |![brainlighting](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/brainlighting.PNG)|![ideaboard](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/ideaboard.PNG)|![PMI](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/PMI.PNG)|
