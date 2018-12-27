@@ -1,10 +1,14 @@
 ---
+### ~~두 분이 사라진~~
 # SSAFYist
 ![ssafyists](img/ssafyists.png)
- 
+
+(만난지 < 20분)
+
 ---
 # 자기소개
 ![yongjae](img/yong_profile.png)
+
 이름: 이용재
 별명: 요으재, 용구리
 성격: 낙천적
