@@ -23,6 +23,7 @@ title: 1주차. Design Thinking 방법론
 
 #### 2. Define
 - 관점서술문 작성
+
 ![view_description](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/view_description.PNG)
 
 #### 3. Ideate
