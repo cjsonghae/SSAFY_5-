@@ -4,10 +4,14 @@
  
 ---
 # 자기소개
-![yongjae](img/yong_profile.JPG)
+![yongjae](img/yong_profile.png)
 이름: 이용재
 별명: 요으재, 용구리
 성격: 낙천적
+연말 계획: 
+- 쉬는 동안 푹 잘 쉬기
+- 부모님과 식사
+- 싸피 시작 잘 준비하기
 
 ---
 
