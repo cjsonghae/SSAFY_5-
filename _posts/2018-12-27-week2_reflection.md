@@ -1,3 +1,7 @@
+---
+title: 2주차. 챗봇 프로젝트
+---
+
 # SSAFY Start Camp 챗봇 퀘스트 ([original repo link](https://github.com/CoaLee/hotword))
 서울_5_이용재, https://github.com/CoaLee/hotword
 ## 1. 스펙(Specification)
