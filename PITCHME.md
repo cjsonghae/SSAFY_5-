@@ -18,9 +18,7 @@
 @title[신승민] 
 @transition[fade-out]
 
-@size[1.0em]@color[white](이름: 신승민
-별명: 없음
-성격: 말이 많음, 움직이는 것을 싫어함)
+@size[1.0em]@color[white](이름: 신승민\n별명: 없음\n성격: 말이 많음, 움직이는 것을 싫어함)
 
 @snapend
 ---
