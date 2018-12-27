@@ -21,10 +21,14 @@
 @size[1.0em]@color[white](이름: 신승민<br/>별명: 없음<br/>성격: 말이 많음, 움직이는 것을 싫어함)
 
 @snapend
----
+---?color=lightblue
+@snap[center]
+@title[연말 계획] 
+@transition[fade-out]
 
+@size[1.0em]@color[white](연말 계획: 남자친구랑 만나서 돌아다니다가 게임 할 예정<br/>12월 31일에 하고 싶은 것: 크리스마스 때 사람이 너무 많아서 딱히 뭘 하고 싶은 생각이 안 든다...ㅠ)
 
-
+@snapend
 ---
 
 
