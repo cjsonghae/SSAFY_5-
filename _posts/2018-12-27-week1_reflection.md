@@ -23,9 +23,23 @@ title: 1주차. Design Thinking 방법론
 
 #### 2. Define
 - 관점서술문 작성
+![view_description](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/view_description.PNG)
 
 #### 3. Ideate
-- How Might We, 마인드맵, 브레인라이팅, SCAMPER, 아이디어보드, PMI 피드백
+- How Might We
+  1. How: (핵심질문) 어떻게 하면 우리가 ~을 할 수 있을까? (가능성 확장) 어떤 방법으로 우리가 ~을 할 수 있을까?
+  2. Might: (장애요소 발견) 무엇이 문제 해결을 막고 있는가?
+  3. We: (현실적인 접근) 우리가 ~을 할 수 있는 방법은 무엇인가? (강제 연상) 만약 ~한다면 어떤 일이 일어날까?
+- SCAMPER
+  1. Substitute: 플라스틱 대신 활용할 수 있다면?
+  2. Combine: 통신과 컴퓨터를 결합하면?
+  3. Adapt: 가시를 울타리에 응용하면?
+  4. Modify, Magnify, Minify: 아이스크림을 종이나 컵에 담지 않는다면?
+  5. Put to Other Uses: 자꾸만 떨어지는 접착제는 어디에?
+  6. Eliminate: 선풍기에 날개가 없다면?
+  7. Reverse, Rearrange: 김밥에서 김을 안에 넣으면?
+- 아이디어보드, PMI 피드백
+- 마인드맵, 브레인라이팅, 
 
 #### 4. Prototype
 - 목업
