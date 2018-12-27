@@ -29,7 +29,9 @@ title: 1주차. Design Thinking 방법론
 
 #### 4. Prototype
 - 목업
-- 
+  - justinmind, balsamiq, adobeXD
+- PPT, 전지, Role Play, 드라마, UCC, 광고 등
 
 #### 5. Test
-- 
+- World Cafe: 호스트와 서기가 세워져 다른 팀 게스트들을 맞이해 기술을 설명하고 피드백을 받는 방법
+- 피벗: 검증을 통해 수집된 통찰과 다른 기술 및 맥락적 기반을 바탕으로, 개발의 방향을 빠르게 전환해나가는 것
