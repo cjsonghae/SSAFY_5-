@@ -2,7 +2,6 @@
 ## SSAFYist
 ![ssafyists](img/ssafyists.png)
 
-##### (만난지 < 20분)
 ### 벌써 두명을 배출한 취업 성공팀
 
 ---
