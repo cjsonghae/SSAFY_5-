@@ -11,7 +11,7 @@
 ---
 성격: 긍정적
 ---
-![SongHae Image](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjM-NSytb_fAhVKZt4KHfVVBeUQjRx6BAgBEAU&url=http%3A%2F%2Fwww.edaily.co.kr%2Fnews%2Fread%3FnewsId%3D01180806615962048%26mediaCodeNo%3D258&psig=AOvVaw3w-rgdu5IbkYlBKCnKB3GT&ust=1545979714779759)
+![SongHae Image](http://mblogthumb1.phinf.naver.net/20160717_16/jyi4501_1468734592966EGTW5_JPEG/%BE%DE%B9%AB%BB%F5%C7%CF%C7%B0.PNG?type=w2)
 
 ---?color=lightblue
 @snap[center]
