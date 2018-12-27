@@ -10,8 +10,6 @@
 별명: 송해,아리송해,뽀송뽀송해...
 ---
 성격: 긍정적
----
-![SongHae Image](http://mblogthumb1.phinf.naver.net/20160717_16/jyi4501_1468734592966EGTW5_JPEG/%BE%DE%B9%AB%BB%F5%C7%CF%C7%B0.PNG?type=w2)
 
 ---?color=lightblue
 @snap[center]
