@@ -2,14 +2,14 @@
 title: 1주차. Design Thinking 방법론
 ---
 
-### Design Thinking: 사용하는 사람에 대한 공감 + 기술 
+## Design Thinking: 사용하는 사람에 대한 공감 + 기술 
 
 ### 사례
 - GE MRI Adventure Series
 - AirBnB
 - 화이자 제약의 금연 캠페인
 
-### 디자인씽킹 Process
+## 디자인씽킹 Process
 ![process diagram](designthinking_process_diagram.PNG)
 
 |Empathize|Define|Ideate|Prototype|Test|
@@ -18,8 +18,11 @@ title: 1주차. Design Thinking 방법론
 
 #### 1. Empathize
 - 공감지도
+![empathize_map](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/empathize_map.PNG)
 - 고객여정맵
+![customer_journey](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/customer_journey.PNG)
 - 페르소나 만들기
+![persona](https://github.com/cjsonghae/SSAFY_5-/blob/master/_posts/persona.PNG)
 
 #### 2. Define
 - 관점서술문 작성
