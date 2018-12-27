@@ -28,6 +28,7 @@
 이름: 정송해
 ---
 별명: 송해,아리송해,뽀송뽀송해...
+![송해](http://spnimage.edaily.co.kr/images/photo/files/NP/S/2017/06/PS17061500033.jpg)
 ---
 성격: 긍정적
 
