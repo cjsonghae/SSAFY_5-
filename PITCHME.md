@@ -16,7 +16,7 @@
 ---?color=lightblue
 @title[신승민] 
 @transition[fade-out]
-@color[white]@size[1.0em](이름: 신승민)
+@size[1.0em]color[white](이름: 신승민)
 
 @size[1.0em](별명: 없음)
 
